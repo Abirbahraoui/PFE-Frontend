@@ -1,0 +1,31 @@
+.banner {
+	color: black;
+	text-align: left;
+	padding: 10px;
+    background-color: #343c7c;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	align-items: center;
+	width: 100%;
+	margin-bottom: 2%;
+}
+
+.banner-title {
+	padding-left: 0px;
+	color: #2d80ec;
+}
+
+.banner-logo {
+	height: auto;
+	width: 25%;
+}
+
+#logo-link{
+	text-decoration: none;
+	cursor: pointer;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: row;
+	align-items: center;
+}

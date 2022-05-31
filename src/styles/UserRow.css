@@ -1,0 +1,14 @@
+#projectLogo {
+    align-self: center;
+    vertical-align: middle;
+    width: 10%;
+    height: 100%;
+}
+
+#logo {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
